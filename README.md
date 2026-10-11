@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ali Akbar 👋
 
-<!--
-**Ali-AkbarSyan/Ali-AkbarSyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Data Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm currently pursuing a **BS Data Science at UET Lahore**. I'm interested in programming, data analysis, web development, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 BS Data Science student at UET Lahore
+- 💻 Learning programming and software development
+- 📊 Interested in data analysis and visualization
+- 🌐 Exploring web development
+- 🧠 Practicing Data Structures and Algorithms
+
+## 🛠️ Skills & Technologies
+- **Programming:** Python, C#
+- **Web Development:** HTML, CSS, JavaScript
+- **Data Science:** Pandas, NumPy, Data Analysis
+- **Tools:** Git, GitHub, Visual Studio Code
+- **Database:** SQL Server
+
+## 📂 Projects
+- **Nutritional Value Based Diet Analyzer** — A project for exploring food nutrition and diet tracking.
+- **Smart Trading System** — A proposed web-based trading system with data analysis.
+- **Smart Super Market POS** — A point-of-sale project using C# and SQL Server.
+
+## 🎯 Current Goals
+- Improve my programming and problem-solving skills.
+- Learn more about Data Structures and Algorithms.
+- Build practical projects in Data Science and Web Development.
+
+## 📫 Connect With Me
+- **GitHub:** https://github.com/Ali-AkbarSyan
+- **LinkedIn:** https://www.linkedin.com/in/ali-akbar-73488437a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+⭐ *Thanks for visiting my profile!*
+
