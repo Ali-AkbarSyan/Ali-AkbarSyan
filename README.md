@@ -11,6 +11,11 @@ I'm currently pursuing a **BS Data Science at UET Lahore**. I'm interested in pr
 - 🌐 Exploring web development
 - 🧠 Practicing Data Structures and Algorithms
 
+## 📚 What I'm Learning
+- Git and GitHub version control
+- Data Structures and Algorithms in C#
+- Data analysis with Python
+
 ## 🛠️ Skills & Technologies
 - **Programming:** Python, C#
 - **Web Development:** HTML, CSS, JavaScript
@@ -25,7 +30,6 @@ I'm currently pursuing a **BS Data Science at UET Lahore**. I'm interested in pr
 
 ## 🎯 Current Goals
 - Improve my programming and problem-solving skills.
-- Learn more about Data Structures and Algorithms.
 - Build practical projects in Data Science and Web Development.
 
 ## 📫 Connect With Me
@@ -35,4 +39,3 @@ I'm currently pursuing a **BS Data Science at UET Lahore**. I'm interested in pr
 ---
 
 ⭐ *Thanks for visiting my profile!*
-
