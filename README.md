@@ -39,3 +39,8 @@ I'm currently pursuing a **BS Data Science at UET Lahore**. I'm interested in pr
 ---
 
 ⭐ *Thanks for visiting my profile!*
+## 📚 What I'm Learning
+
+- Git and GitHub Version Control
+- Data Structures and Algorithms in C#
+- Data Analysis with Python
